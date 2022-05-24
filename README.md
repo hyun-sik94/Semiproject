@@ -29,6 +29,10 @@
 + 게임화면
 ![캡처](https://user-images.githubusercontent.com/79977761/170080917-81807a8d-b94f-4ea6-b28b-eafca130dcab.PNG)
 
+
+# 게임시현 영상
+https://user-images.githubusercontent.com/79977761/170133810-66f8befb-b436-4199-902b-59ef8c718fed.mp4
+
 # 흐름도와 클래스다이어그램
 ![캡처2](https://user-images.githubusercontent.com/79977761/170082187-c3bcf03e-841e-4aeb-95e3-6905013929f0.PNG)
 ![캡처3](https://user-images.githubusercontent.com/79977761/170082258-c9629c1f-2780-45a5-a44d-079f2c7f527e.PNG)
